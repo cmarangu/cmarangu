@@ -6,5 +6,5 @@
 - Interested in anything related to computer graphics / computer vision, web and UI/UX, and math/science-related.
 
 ## Links:
-- <a href="https://www.linkedin.com/in/chase-marangu/" target="_blank">Linkedin</a>
+- [Linkedin]("https://www.linkedin.com/in/chase-marangu/)
 - [Shadertoy](https://www.shadertoy.com/user/cmarangu) where you can try out most of my newer real-time WebGL experiments.
